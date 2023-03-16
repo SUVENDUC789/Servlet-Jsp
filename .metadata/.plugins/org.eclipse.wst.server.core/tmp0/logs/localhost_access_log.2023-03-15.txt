@@ -16,3 +16,15 @@
 127.0.0.1 - - [15/Mar/2023:21:48:49 +0530] "GET / HTTP/1.1" 404 751
 0:0:0:0:0:0:0:1 - - [15/Mar/2023:21:49:02 +0530] "GET /Biswa1/emp?name=Suvendu+Chowdhury&email=suvendu.chok%40gmail.com HTTP/1.1" 200 66
 0:0:0:0:0:0:0:1 - - [15/Mar/2023:22:04:09 +0530] "GET /Biswa1/emp?name=Suvendu+Chowdhury&email=suvendu.chok%40gmail.com HTTP/1.1" 200 66
+127.0.0.1 - - [15/Mar/2023:22:51:51 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [15/Mar/2023:22:51:53 +0530] "GET /Assignment1/index.html HTTP/1.1" 200 138
+0:0:0:0:0:0:0:1 - - [15/Mar/2023:22:51:56 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [15/Mar/2023:22:55:00 +0530] "GET /Assignment1/index.html HTTP/1.1" 200 696
+127.0.0.1 - - [15/Mar/2023:23:16:49 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [15/Mar/2023:23:17:19 +0530] "GET /Assignment1/index.html HTTP/1.1" 200 697
+0:0:0:0:0:0:0:1 - - [15/Mar/2023:23:25:57 +0530] "GET /Assignment1/index.html HTTP/1.1" 200 1825
+0:0:0:0:0:0:0:1 - - [15/Mar/2023:23:27:15 +0530] "GET /Assignment1/index.html HTTP/1.1" 200 1843
+0:0:0:0:0:0:0:1 - - [15/Mar/2023:23:28:41 +0530] "GET /Assignment1/index.html HTTP/1.1" 200 1882
+127.0.0.1 - - [15/Mar/2023:23:42:57 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [15/Mar/2023:23:43:05 +0530] "GET /Assignment1/index.html HTTP/1.1" 200 1901
+0:0:0:0:0:0:0:1 - - [15/Mar/2023:23:43:15 +0530] "POST /Assignment1/datastore HTTP/1.1" 200 75

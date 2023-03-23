@@ -13,6 +13,6 @@ comd=f"git commit -m \"{sen}\""
 usecom(comd)
 
 
-comd="git push origin master"
+comd="git push"
 usecom(comd)
 

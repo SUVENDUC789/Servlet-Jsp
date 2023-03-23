@@ -60,3 +60,12 @@ public class Department extends HttpServlet {
 
 }
 ```
+
+
+
+## Session Tracking Techniques
+
+1. Cookies
+2. Hidden Form Field
+3. URL Rewriting
+4. HttpSession

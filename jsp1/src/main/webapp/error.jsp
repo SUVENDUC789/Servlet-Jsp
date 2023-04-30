@@ -30,6 +30,7 @@
 
         <p>Somethink went to wrong</p>
         <p>Note : {...<%= exception %>...}</p>
+
     </div>
 </body>
 

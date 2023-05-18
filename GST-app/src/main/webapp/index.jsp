@@ -69,7 +69,7 @@
                     <div id="check-price" class="my-alert-msg">...</div>
                 </div>
             </div>
-            <!-- <button class="btn btn-info" id="add-med">Add +</button> -->
+            <button class="btn btn-info" id="add-med">Add +</button> 
             <hr>
             <button type="submit" class="btn btn-primary" id="login-suv">Submit</button>
         </form>
@@ -87,12 +87,12 @@
     crossorigin="anonymous"></script>
 
 <script>
-    $(document).ready(function () {
         let i = 0;
+    $(document).ready(function () {
         $("#add-med").click(function (e) {
             e.preventDefault();
-            i++;
-            $(".medice-d").append(`<p><b><i>Medicine ${i + 1}</i></b></p>
+            //i++;
+            $(".medice-d").append(`<p><b><i>Medicine ${i+=1}</i></b></p>
                 <div class="mb-3">
                     <label for="nom${i}" class="form-label">Name of medicine</label>
                     <input type="text" class="form-control" id="nom${i}">
